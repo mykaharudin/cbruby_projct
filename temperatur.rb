@@ -1,4 +1,4 @@
-puts "Hai ini temperatur"
+puts "Hai this is tempertare"
 
 puts "masukan inisial (f) Fahrenheit atau (c) Celsius ?"
 unit_of_measure = gets.chomp.downcase
